@@ -1,31 +1,30 @@
 # Site Settings
-title: Jekflix | A theme for Jekyll
-email: youremail@xyz.com
-description: Some text about your blog.
+title: Kangflix | 강인성의 개발 창고
+email: tails5555@naver.com
+description: Web 개발자의 일상과 지식 정보 블로그
 baseurl: "/kangflix"
 url: "https://tails5555.github.io"
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Jekflix
-user_description: Some text about you.
-disqus_username: disqus_username
+username: Kang In Sung
+user_description: Web 개발을 좋아하고, 사용자들의 편의를 생각하는 개발자로 성장하고 싶습니다.
+disqus_username: tails5555
 
 # Social Media
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: tails5555
+facebook_username: inseong.gang
+instagram_username: kangdbinsta
+# linkedin_username: -- 없음 --
+# medium_username: -- 없음 --
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
 permalink: /:title/
 paginate: 12
-paginate_path: "/page/:num/"
+paginate_path: "/kangflix/page/:num/"
 svg_color: "#ff0a16"
 
 # Plugins
@@ -42,6 +41,8 @@ links:
     url: /about/
   - title: Contact
     url: /contact/
+  - title: Tags
+    url: /tags/
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
