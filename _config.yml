@@ -2,8 +2,8 @@
 title: Kangflix | 강인성의 개발 창고
 email: tails5555@naver.com
 description: Web 개발자의 일상과 지식 정보 블로그
-baseurl: "/kangflix"
-url: "https://tails5555.github.io"
+baseurl: ""
+url: "https://tails5555.github.io/kangflix"
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
