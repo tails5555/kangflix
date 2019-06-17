@@ -1,7 +1,7 @@
 <!-- Pagination links -->
 <div class="pagination">
     {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path }}" class="previous" onclick="ga('send', 'event', 'pagination', 'click', 'page previous')">
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="previous" onclick="ga('send', 'event', 'pagination', 'click', 'page previous')">
             <svg>
                 <use xlink:href="#icon-arrow-right"></use>
             </svg>
@@ -9,7 +9,7 @@
     {% endif %}
     <span class="page_number ">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
     {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path }}" class="next" onclick="ga('send', 'event', 'pagination', 'click', 'page next')">
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="next" onclick="ga('send', 'event', 'pagination', 'click', 'page next')">
             <svg>
                 <use xlink:href="#icon-arrow-right"></use>
             </svg>

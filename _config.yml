@@ -7,7 +7,7 @@ url: "https://tails5555.github.io"
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Kang In Sung
+username: Kangflix
 user_description: Web 개발을 좋아하고, 사용자들의 편의를 생각하는 개발자로 성장하고 싶습니다.
 disqus_username: tails5555
 
@@ -24,7 +24,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:title/
 paginate: 12
-paginate_path: "/kangflix/page/:num/"
+paginate_path: "/page/:num/"
 svg_color: "#ff0a16"
 
 # Plugins
