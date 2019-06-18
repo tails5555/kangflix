@@ -2,7 +2,7 @@
 layout: post
 title: "React.js 면접 대비"
 date: 2019-06-18 22:00:00
-image: "{{ site.baseurl }}/assets/img/category/ct_interview.png"
+image: "/kangflix/assets/img/category/ct_interview.png"
 description: "React.js 면접 및 지식 포스트입니다."
 category: 'interview'
 tags:
