@@ -23,7 +23,8 @@ instagram_username: kangdbinsta
 markdown: kramdown
 highlighter: rouge
 permalink: /:title/
-paginate: 12
+paginate: 15
+
 paginate_path: "/page/:num/"
 svg_color: "#ff0a16"
 
