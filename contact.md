@@ -15,7 +15,7 @@ permalink: /contact/
 <div class="container">
 
   <h2>Contact With E-Mail</h2>
-  <p>운영자의 메일로 전송되오니, 필요할 때 사용 바랍니다.</p>
+  <p>블로그 운영자의 메일로 전송되오니, <b>꼭 필요할 때 사용 바랍니다.</b></p>
   <div id="form" class="contact-form">
     <form accept-charset="UTF-8" method="POST" action="https://formspree.io/{{ site.email }}" v-on:submit.prevent="validateBeforeSubmit" ref="contact">
       <fieldset>
@@ -32,6 +32,7 @@ permalink: /contact/
 
         <input type="text" name="_subject" placeholder="제목 입력" v-validate="'required'"
                :class="{ 'has-error': errors.has('_subject') }" />
+        <span v-if="errors.has('_subject')" v-cloak>${ errors.first('_subject') }</span>
 
         <textarea name="message" onkeyup="adjust_textarea(this)" placeholder="내용 입력" v-validate="'required'"
                   :class="{ 'has-error': errors.has('message') }"></textarea>
