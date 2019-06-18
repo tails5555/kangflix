@@ -3,13 +3,12 @@ layout: post
 title: "React.js 면접 대비"
 date: 2019-06-18 22:00:00
 image: "/kangflix/assets/img/category/ct_interview.png"
-description: React.js 면접 및 지식 포스트입니다.
 category: 'interview'
 tags:
 - React
 - Interview
-twitter_text: 
-introduction: 
+description: React.js 면접 및 지식 포스트입니다.
+introduction: React.js 면접 및 지식 포스트입니다.
 ---
 
 ![ReactJS]({{ site.baseurl }}/assets/img/post/interview/reactjs.jpg)
@@ -717,7 +716,3 @@ React Hooks 를 응용하는 튜토리얼은 아래 포스트를 참고하시길
 [맨 위로](#contents)
 
 ---
-
-<h1>Written By</h1>
-
-- 강인성 : https://github.com/tails5555
