@@ -1,0 +1,20 @@
+---
+layout: minimal
+title: "#Categories"
+permalink: /categories/index.html
+description: "Procure por sua #categories favorita."
+---
+
+<span class="tag-title">
+    Categories
+</span>
+<ul class="post-list">
+    {% for category in site.categories %}
+        <li>
+            <a href="{{ site.url }}{{ site.baseurl }}/category/{{ category[0] | downcase | downcase | url_escape | strip | replace: ' ', '-' }}">
+                {{ category[0] | camelcase }}
+                <span class="entry-date">({{ category[1].size }})</span>
+            </a>
+        </li>
+    {% endfor %}
+</ul>

@@ -1,4 +1,4 @@
 ---
 layout: category
-category: 'mobile'
+category: 'vue'
 ---
