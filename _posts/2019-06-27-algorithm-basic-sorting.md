@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "기본 정렬 알고리즘"
-date: 2019-06-27 07:00:00
+date: 2019-06-27 15:00:00 +09:00
 image: "/kangflix/assets/img/category/ct_algorithm.png"
 category: 'algorithm'
 tags:
@@ -117,7 +117,7 @@ public class BubbleSort {
 
 - 버블 정렬 중 교체가 안 일어나는 루프를 최소화 하기 위한 정렬 알고리즘.
 - 오른쪽, 왼쪽, 오른쪽, 왼쪽... 진자의 움직임 처럼 정렬되는 알고리즘.
-- `swapped` 변수로 정렬 진행 여부를 체크하여 반복문 루프를 최소화. (물론, 버블 정렬에서도 가능한 일.)
+- `swapped` 변수로 정렬 진행 여부를 체크하여 반복문 루프를 최소화. <br/>(물론, 버블 정렬에서도 가능한 일.)
 - 시간 복잡도는 O(n^2), 공간 복잡도는 O(1).
 - `swap` 함수가 필요한 정렬 알고리즘.
 
