@@ -521,28 +521,6 @@ person5.person1.name = '강사람'; // 못 믿겠지만, 강사람으로 변경 
 
 ---
 
-# Object Binding
-
-[맨 위로](#contents)
-
----
-
-# Closure
-
-계속 작성 하겠습니다!
-
-[맨 위로](#contents)
-
----
-
-# Callback Function VS Arrow Function
-
-계속 작성 하겠습니다!
-
-[맨 위로](#contents)
-
----
-
 # Functional Programming
 
 ```javascript
@@ -572,22 +550,6 @@ JavaScript 에서는 `this` 가 동적으로 변해서 순수함수 구성에 �
 그렇지만 Arrow Function 에서 `this` 는 상위 스코프의 `this` 를 자동으로 바인딩 해 줍니다.
 
 그래서 함수형 프로그래밍을 구성할 땐 Arrow Function 을 자주 사용하는 것이 좋습니다.
-
-[맨 위로](#contents)
-
----
-
-# V8 Engine
-
-계속 작성 하겠습니다!
-
-[맨 위로](#contents)
-
----
-
-# JS Garbage Collection
-
-계속 작성 하겠습니다!
 
 [맨 위로](#contents)
 
