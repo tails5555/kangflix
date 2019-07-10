@@ -2,7 +2,7 @@
 layout: post
 title: "수학의 세계"
 date: 2019-06-20 07:00:00
-image: "/kangflix/assets/img/category/ct_knowledge.png"
+image: "/assets/img/category/ct_knowledge.png"
 category: 'knowledge'
 tags:
 - Mathematics

@@ -2,7 +2,7 @@
 layout: post
 title: "네트워크 기초 개념"
 date: 2019-07-06 15:00:00 +09:00
-image: "/kangflix/assets/img/category/ct_network.png"
+image: "/assets/img/category/ct_network.png"
 category: 'network'
 tags:
 - Network

@@ -2,7 +2,7 @@
 layout: post
 title: "OSI 7계층"
 date: 2019-07-10 14:00:00 +09:00
-image: "/kangflix/assets/img/category/ct_network.png"
+image: "/assets/img/category/ct_network.png"
 category: 'network'
 tags:
 - Network

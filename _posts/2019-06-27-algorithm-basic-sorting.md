@@ -2,7 +2,7 @@
 layout: post
 title: "기본 정렬 알고리즘"
 date: 2019-06-27 15:00:00 +09:00
-image: "/kangflix/assets/img/category/ct_algorithm.png"
+image: "/assets/img/category/ct_algorithm.png"
 category: 'algorithm'
 tags:
 - Algorithm

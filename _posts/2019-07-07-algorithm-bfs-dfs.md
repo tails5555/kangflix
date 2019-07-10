@@ -2,7 +2,7 @@
 layout: post
 title: "BFS 와 DFS"
 date: 2019-07-09 15:00:00 +09:00
-image: "/kangflix/assets/img/category/ct_algorithm.png"
+image: "/assets/img/category/ct_algorithm.png"
 category: 'algorithm'
 tags:
 - Algorithm

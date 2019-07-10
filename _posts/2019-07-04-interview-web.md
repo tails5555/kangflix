@@ -2,7 +2,7 @@
 layout: post
 title: "Web 개발 및 보안 면접 대비"
 date: 2019-07-04 17:00:00 +09:00
-image: "/kangflix/assets/img/category/ct_interview.png"
+image: "/assets/img/category/ct_interview.png"
 category: 'interview'
 tags:
 - Web

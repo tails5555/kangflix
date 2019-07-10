@@ -2,7 +2,7 @@
 layout: post
 title: "운영체제 기초 개념"
 date: 2019-07-07 15:00:00 +09:00
-image: "/kangflix/assets/img/category/ct_os.png"
+image: "/assets/img/category/ct_os.png"
 category: 'os'
 tags:
 - OS

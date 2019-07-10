@@ -2,7 +2,7 @@
 layout: post
 title: "JavaScript 면접 대비"
 date: 2019-06-19 18:00:00
-image: "/kangflix/assets/img/category/ct_interview.png"
+image: "/assets/img/category/ct_interview.png"
 category: 'interview'
 tags:
 - JavaScript
