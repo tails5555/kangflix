@@ -13,7 +13,7 @@ introduction: 컴퓨터 네트워크를 공부하기 이전에 알아두면 좋�
 
 ## Network Structure
 
-![JavaScript]({{ site.baseurl }}/assets/img/post/network/network_structure.png){: width="100%"}
+![NETWORK_IMAGE]({{ site.baseurl }}/assets/img/post/network/network_structure.png){: width="100%"}
 
 네트워크는 크게 Network Edge, Network Core 2가지로 나뉩니다.
 
