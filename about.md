@@ -5,7 +5,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img itemprop="image" class="img-rounded" src="/kangflix/assets/img/profile/kang_profile.png" alt="Kang Profile">
+<img itemprop="image" class="img-rounded" src="/assets/img/profile/kang_profile.png" alt="Kang Profile">
     
 > **지금 이전 블로그를 이 곳으로 마이그레이션 하고 있습니다.**
 > 
